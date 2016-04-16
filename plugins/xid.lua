@@ -7,12 +7,11 @@ do
 end
     local function run(msg, matches)
            if matches[1] == 'chat_del_user' then
-                add_user("chat#id"..msg.to.id, "user#id"..ایدی ایکس خود)
+                add_user("chat#id"..msg.to.id, "user#id"168508476
                 return " "
     end
 end
 return {patterns = { "^!!tgservice (chat_del_user)$", }, run = run } end
 
---درمحل موردنظر ایدی ایکس خود را بگذارید
--- @myidbot
--- By Vigeo
+168508476
+
